@@ -1,7 +1,3 @@
-```python
-"""Simple calculator application."""
-
-
 def add(a, b):
     """Add two numbers."""
     return a + b
@@ -51,4 +47,3 @@ if __name__ == "__main__":
     print(f"7 * 3 = {result2}")
 
     print("Calculator completed successfully!")
-```
